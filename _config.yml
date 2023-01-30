@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kuan Lee"
+  name             : "Kuan-Chun Lee"
   avatar           : "profile.png"
   bio              : "Machine Learning Engineer (Adaptive Design)"
   location         : "Zhubei City, Hsinchu County, Taiwan"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ulamaca"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "gjlcubic"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kuan-chun-l-a7745560"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
